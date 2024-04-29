@@ -1,2 +1,1 @@
-# tes
-sadoiasodad
+print("Hello World!")
